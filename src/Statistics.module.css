@@ -1,0 +1,40 @@
+.statistics {
+    text-align: center;
+    margin: 20px;
+}
+
+.title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.stat-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+    margin-bottom: 10px;
+    padding: 10px;
+    list-style-type:none;
+}
+
+.label {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+}
+
+.percentage {
+    font-size: 24px;
+    font-weight: bold;
+    color: #888;
+    margin-top: 5px;
+}
